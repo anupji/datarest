@@ -1,6 +1,0 @@
-com\keysoft\bugtracker\BugtrackerApplication.class
-com\keysoft\bugtracker\config\RepositoryConfiguration.class
-com\keysoft\bugtracker\bootstrap\BugtrackerApplicationLoader.class
-com\keysoft\bugtracker\repositories\TicketRepository.class
-com\keysoft\bugtracker\domain\Ticket.class
-com\keysoft\bugtracker\config\WebConfiguration.class
